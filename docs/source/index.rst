@@ -22,5 +22,8 @@ Contents
    integration-guide
    entraid-integration-guide
    radius-integration-guide
+   rest-api
+   root-cert
+   soap
    usage
    api
