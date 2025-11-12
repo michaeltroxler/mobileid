@@ -18,7 +18,8 @@ Contents
 
 .. toctree::
 
-   integration-guide
    reference-guide
+   integration-guide
+   entraid-integration-guide
    usage
    api
