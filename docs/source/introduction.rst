@@ -4,7 +4,7 @@ Introduction
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
 ID Open ID Provider (MobileID OP) into their applications.
 
-.. OpenID Connect:: The MobileID OP can be used for both authorization and authentication. It fully complies with the OpenID
+.. OpenID_Connect:: The MobileID OP can be used for both authorization and authentication. It fully complies with the OpenID
 Connect specification.
 
 OpenID Connect is a simple identity layer on top of the OAuth 2.0 protocol. It allows clients to verify the
@@ -60,7 +60,7 @@ Authorization Code Grant Flow
 Mobile ID utilizes the Authorization Code Grant Type to obtain an access token to grant application to retrieve
 user data after authenticating. The Authorization Code Flow, in abstract, follows the following steps:
 
-.. image:: path/to/image.jpg
+.. image:: docs/source/mobileid_auth_code_flow.png
    :alt: Description of the image
    :width: 200px
    :height: 100px
