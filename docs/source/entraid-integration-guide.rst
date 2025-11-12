@@ -1,4 +1,4 @@
-EntraID integration guide
+EntraID Integration Guide
 =====
 insert text
 
