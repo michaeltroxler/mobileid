@@ -19,6 +19,7 @@ Contents
 .. toctree::
 
    integration guide
+   reference guide
    getting started
    best practices
    puplic cloud integration guide
