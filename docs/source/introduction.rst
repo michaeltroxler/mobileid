@@ -4,7 +4,8 @@ Introduction
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
 ID Open ID Provider (MobileID OP) into their applications.
 
-.. OpenID:: The MobileID OP can be used for both authorization and authentication. It fully complies with the OpenID
+.. OpenID:: The MobileID OP can be used for both authorization and authentication. 
+It fully complies with the OpenID
 Connect specification.
 
 OpenID Connect is a simple identity layer on top of the OAuth 2.0 protocol. It allows clients to verify the
@@ -16,7 +17,7 @@ quest and receive information about authenticated sessions and end-users. The sp
 tensible, allowing participants to use optional features such as encryption of identity data, discovery of
 OpenID Providers, and session management, when it makes sense for them.
 See https://openid.net/connect/faq/ for a set of answers to Frequently Asked Questions.
-The Mobile ID solution protects access to your company data and app
+The Mobile ID solution protects access to your company data and app.
 
 
 .. _Basic Key Concepts - Terminology:
