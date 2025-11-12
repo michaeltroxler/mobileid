@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Mobile ID developer documentation hub!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -19,5 +19,10 @@ Contents
 .. toctree::
 
    introduction
+   getting started
+   best practices
+   puplic cloud integration guide
+   mobile ID OICD - use cases
+   message formats on the mobile ID app
    usage
    api
