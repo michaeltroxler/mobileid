@@ -4,9 +4,19 @@ Introduction
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
 ID Open ID Provider (MobileID OP) into their applications.
 
-.. note:: This is an info box indicating additional information or a note to the reader.
+.. OpenID Connect:: The MobileID OP can be used for both authorization and authentication. It fully complies with the OpenID
+Connect specification.
 
-   You can include multiple lines of text here. The content should be indented consistently to form part of the note.
+OpenID Connect is a simple identity layer on top of the OAuth 2.0 protocol. It allows clients to verify the
+identity of the End-User based on the authentication performed by an Authorization Server, as well as to
+obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+OpenID Connect allows clients of all types, including Web-based, mobile, and JavaScript clients, to re-
+quest and receive information about authenticated sessions and end-users. The specification suite is ex-
+tensible, allowing participants to use optional features such as encryption of identity data, discovery of
+OpenID Providers, and session management, when it makes sense for them.
+See https://openid.net/connect/faq/ for a set of answers to Frequently Asked Questions.
+The Mobile ID solution protects access to your company data and app
 
 
 .. _Basic Key Concepts - Terminology:
@@ -45,32 +55,14 @@ The most basic key concepts are as follows.
 - **Refresh Token** carries the information necessary to get a new access token. Refresh tokens can also
   expire but are rather long-lived.
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
 Authorization Code Grant Flow
 ----------------
 Mobile ID utilizes the Authorization Code Grant Type to obtain an access token to grant application to retrieve
 user data after authenticating. The Authorization Code Flow, in abstract, follows the following steps:
 
-put picture here
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+.. image:: path/to/image.jpg
+   :alt: Description of the image
+   :width: 200px
+   :height: 100px
+   :scale: 50%
+   :align: center
