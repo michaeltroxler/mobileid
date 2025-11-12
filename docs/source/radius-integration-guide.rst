@@ -1,4 +1,4 @@
-Radius integration guide
+Radius Integration Guide
 =====
 insert text
 
