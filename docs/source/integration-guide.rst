@@ -1,4 +1,4 @@
-Introduction
+Integration Guide
 =====
 
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
