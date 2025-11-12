@@ -21,5 +21,6 @@ Contents
    reference-guide
    integration-guide
    entraid-integration-guide
+   radius-integration-guide
    usage
    api
