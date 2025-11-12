@@ -4,6 +4,11 @@ Introduction
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
 ID Open ID Provider (MobileID OP) into their applications.
 
+.. note:: This is an info box indicating additional information or a note to the reader.
+
+   You can include multiple lines of text here. The content should be indented consistently to form part of the note.
+
+
 .. _Basic Key Concepts - Terminology:
 
 Basic Key Concepts - Terminology
