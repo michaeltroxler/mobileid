@@ -18,12 +18,7 @@ Contents
 
 .. toctree::
 
-   integration guide
-   reference guide
-   getting started
-   best practices
-   puplic cloud integration guide
-   mobile ID OICD - use cases
-   message formats on the mobile ID app
+   integration-guide
+   reference-guide
    usage
    api
