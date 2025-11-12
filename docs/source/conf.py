@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Mobile ID'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2025, Swisscom'
+author = 'Swisscom'
 
 release = '0.1'
 version = '0.1.0'
