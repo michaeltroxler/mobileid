@@ -13,7 +13,6 @@ ID Open ID Provider (MobileID OP) into their applications.
 
 Basic Key Concepts - Terminology
 ------------
-The most basic key concepts are as follows.
 
 The most basic key concepts are as follows.
 
