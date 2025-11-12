@@ -4,9 +4,10 @@ Introduction
 This document provides Relying Parties (RPs) with technical guidance and best practices for integrating Mobile
 ID Open ID Provider (MobileID OP) into their applications.
 
-.. note:: The MobileID OP can be used for both authorization and authentication.
+.. admonition:: OpenID Connect
+   The MobileID OP can be used for both authorization and authentication.
 
-   It fully complies with the OpenID Connect specification.
+   It fully complies with the OpenID Connect specification. Add some more info.
 
 The Mobile ID solution protects access to your company data and applications with a comprehensive end-to-
 end solution for a strong multi-factor authentication (MFA). Please visit https://mobileid.ch for further infor-
