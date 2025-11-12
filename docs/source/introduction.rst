@@ -56,7 +56,7 @@ user data after authenticating. The Authorization Code Flow, in abstract, follow
 
 .. image:: mobileid_auth_code_flow.png
    :alt: Description of the image
-   :width: 200px
-   :height: 100px
+   :width: 800px
+   :height: 500px
    :scale: 50%
    :align: center
